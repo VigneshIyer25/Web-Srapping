@@ -1,1 +1,1 @@
-In selenium.ipynb you can get clear idea how the selenium work. As there I ve scrape different data of ngo like there names, emails, IDs etc from the NGO Darpan website.
+In selenium.ipynb you can get clear idea of how the selenium web srcapping works.Here I have used selenium to srap the data about different ngos (like their names, emails, working sector, etc) from the ngodarpan.com website.
